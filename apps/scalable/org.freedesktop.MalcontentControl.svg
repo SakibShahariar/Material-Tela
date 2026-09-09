@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" id="org.freedesktop.MalcontentControl-symbolic" width="64" height="64" viewBox="0 0 16 16">
+  <defs id="defs2"><style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#ffb59a} .ColorScheme-Highlight {color:#ffb59a}</style></defs>
+  <g class="ColorScheme-Text" transform="translate(0.20789473684210513 15.8) scale(0.0015789473684210526 -0.0015789473684210526)">
+    <path style="fill:#ffb59a;paint-order:fill markers stroke" d="M4875 9678 c-968 -34 -1943 -359 -2710 -902 -451 -319 -867 -758
+-1158 -1221 -270 -430 -425 -840 -586 -1550 -98 -430 -124 -600 -141 -916
+l-10 -186 10 -181 c14 -255 29 -353 126 -806 176 -821 234 -968 599 -1521 461
+-697 930 -1177 1516 -1550 222 -141 416 -230 825 -379 l182 -66 92 -10 c102
+-12 150 -28 172 -58 l14 -21 74 1 75 1 40 -17 c22 -9 60 -30 85 -45 l45 -28
+160 -11 c88 -7 268 -26 400 -43 l240 -31 201 -5 201 -6 99 12 c121 14 397 69
+587 117 1254 314 2258 1001 2924 1999 304 455 527 1036 667 1735 75 373 100
+615 100 980 -1 1658 -834 3216 -2144 4010 -236 143 -408 223 -710 330 -74 26
+-225 82 -335 125 -358 138 -475 172 -722 204 -287 38 -591 51 -918 39z"/>
+  </g>
+</svg>
